@@ -3,7 +3,7 @@ Creating fun and enjoyment for people is a necessity and it's what I do. This is
 Projects here:
 - Arelith's Fishing System
 - MVMNT
-- Random Map Gen
+- Custom tile based map generation
 
 <!---
 StarfishArelith/StarfishArelith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
