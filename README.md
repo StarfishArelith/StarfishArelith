@@ -4,6 +4,7 @@ Projects here:
 - Arelith's Fishing System
 - MVMNT
 - Custom tile based map generation
+- Hiragana flash cards
 
 <!---
 StarfishArelith/StarfishArelith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
