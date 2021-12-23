@@ -1,5 +1,7 @@
 Creating fun and enjoyment for people is a necessity and it's what I do. This is a home for my side projects and stuff that I work on.
 
+I am versed in Java, C++, C# and others.
+
 Projects here:
 - Arelith's Fishing System
 - MVMNT
